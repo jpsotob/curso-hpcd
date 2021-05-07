@@ -1,5 +1,5 @@
 ---
-title: Curso Herramientas de Productividad para Ciencia de Datos
+title: Introducción a las bases de datos para ciencia de datos
 subtitle: Diplomado en Fundamentos de Ciencia de Datos
 layout: page
 show_sidebar: false
@@ -7,12 +7,12 @@ show_sidebar: false
 
 ## Instructor
 
-Julio Waissman Vilanova (julio.waissman@unison.mx)
+Juan Pablo Soto (juanpablo.soto@unison.mx)
 
 ## Fechas
 
-- Viernes 9 de abril de 19:00 a 21:00 hrs
-- Sábado 10 de abril de 10:00 a 12:00 hrs 
+- Viernes 7 de mayo de 17:00 a 19:00 hrs
+- Sábado 8 de mayo de 08:00 a 10:00 hrs 
 - Viernes 16 de abril de 19:00 a 21:00 hrs
 - Sábado 17 de abril de 8:00 a 11:00 hrs
 - Sábado 24 de abril de 8:00 a 9:00 hrs (Cierre)
