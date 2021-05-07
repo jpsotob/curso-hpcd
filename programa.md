@@ -8,18 +8,20 @@ hero_darken: true
 hide_footer: true
 ---
 
-### Viernes 9 abril
+### Viernes 7 mayo
 
 - **Introducción al módulo** (30 min)  
    1. Presentación personal y presentación de los participantes
    2. Importancia de la persistencia de los datos para la ciencia de datos
    3. Bases de datos
-   
+
+#
 - **Docker** (90 min)
    1. Presentación de *Docker*
    2. Instalación de *Docker*, y uso de imágenes existentes en *Docker Hub*
+#
 
-### Sábado 10 abril
+### Sábado 8 mayo
 
 - **Docker** (120 min)
    1. Uso de imágenes existentes en *Docker Hub*
