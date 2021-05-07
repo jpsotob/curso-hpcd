@@ -1,5 +1,5 @@
 ---
-title: Curso Herramientas de Productividad para Ciencia de Datos
+title: Introducción a las bases de datos para ciencia de datos
 subtitle: Diplomado en Fundamentos de Ciencia de Datos
 layout: page
 show_sidebar: false
@@ -7,7 +7,7 @@ show_sidebar: false
 
 ## Instructor
 
-Julio Waissman Vilanova (julio.waissman@unison.mx)
+Juan Pablo Soto Barrera (juanpablo.soto@unison.mx)
 
 ## Fechas
 
