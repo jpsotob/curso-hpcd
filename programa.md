@@ -72,4 +72,4 @@ Descargando y limpiando datos de COVID en un script
 - **Cierre del curso. Dudas y conclusiones**
 
 
-<img src="/curso-hpcd/img/MCDLogo.png" width="200">
+<img src="/idb/img/MCDLogo.png" width="200">
