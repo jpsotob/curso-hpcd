@@ -7,7 +7,7 @@ tagline: Diplomado en Fundamentos de Ciencia de Datos
 email: juanpablo.soto@unison.mx
 description: >
   Material del curso
-baseurl: "/icd"
+baseurl: "/idb"
 url: "https://jpsotob.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
